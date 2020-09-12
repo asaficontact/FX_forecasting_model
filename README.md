@@ -8,3 +8,9 @@ that can account for up to half of the in-sample variation in one-year currency 
 different country pairs during the 1980s–2016 period. Interest rate factors can help explain
 exchange rate fluctuations in and out of sample, particularly at longer horizons, and yield
 profitable currency portfolios relative to standard carry trade strategies.
+
+## Understanding the Code Files
+* **main.py** contains the code for foreign exchange forecasting model. 
+* **formulae_for_forecasting_model.pdf** contains the formulae used for developing the forecasting model. 
+* **data** folder contains all the data files required for running the forecasting model. 
+* **imports.py** contains imports of all python packages necessary for running the foreign exchange forecasting model code. 
