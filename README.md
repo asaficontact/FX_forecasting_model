@@ -1,4 +1,4 @@
-# Foreign Exchange Forecasting Model: Can Interest Rate Factors Explain Exchange Rate Fluctuations?
+# Foreign Exchange Forecasting Model (for the paper): Can Interest Rate Factors Explain Exchange Rate Fluctuations?
 The level, slope, and curvature of the yield curve are known predictors of excess bond
 returns and economic activity, reflecting time variation in investors’ risk premia. In this
 paper, I develop a term structure model under complete markets and no arbitrage that
