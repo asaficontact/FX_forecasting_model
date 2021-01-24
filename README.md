@@ -17,5 +17,5 @@ profitable currency portfolios relative to standard carry trade strategies.
 
 ## More Info
 * This code reproduces the out-of-sample forecasting exercise in Section 7, following Equation (B.37) derived in the [Online Appendix.](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx5dW5nanVsaWV0YXxneDo0MjVmNjk2ZjhlYmQxNTli&urp=gmail_link&gxids=7628)
-* If you use the code, please cite the paper as follows:
+* **If you use the code, please cite the paper as follows:**
   Yung, J., 2021. Can interest rate factors explain exchange rate fluctuations? Journal of Empirical Finance 61, 34-56.
