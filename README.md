@@ -10,8 +10,7 @@ exchange rate fluctuations in and out of sample, particularly at longer horizons
 profitable currency portfolios relative to standard carry trade strategies.
 
 ## Understanding the Code Files
-* **main.py** contains the code for foreign exchange forecasting model. 
-* **formulae_for_forecasting_model.pdf** contains the formulae used for developing the forecasting model. 
+* **main.py** contains the code for foreign exchange forecasting model.  
 * **data** folder contains all the data files required for running the forecasting model. 
 * **imports.py** contains imports of all python packages necessary for running the foreign exchange forecasting model code. 
 
